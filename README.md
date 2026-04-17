@@ -1,5 +1,5 @@
 # Supply Chain Analytics: A Data-Driven Approach
-### By Elioth Sanabria
+### By [Elioth Sanabria](https://eliotho.github.io/)
 
 Welcome to the official repository for the draft chapters of **"Supply Chain Analytics: A Data-Driven Approach."** These notes are born out of a Supply Chain Analytics class that I taught at Columbia IEOR Department in Spring 2026. See the syllabus here: [Download the Syllabus](files/syllabus.pdf)
 
