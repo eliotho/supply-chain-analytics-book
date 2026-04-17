@@ -8,15 +8,8 @@ Welcome to the official repository for the draft chapters of **"Supply Chain Ana
 ## 📢 Weekly Release Schedule
 I am releasing chapters weekly to engage with the academic and practitioner communities!
 
-- **Chapter 1:** Demand Estimation and Forecasting (Available Now)
+- **Chapter 1:** [Demand Estimation and Forecasting](files/lecture_notes_1_ch1.pdf) (Available Now)
 - **Chapter 2:** Inventory Management Models (Coming Soon)
-
----
-
-## ⚖️ License & AI Training Notice
-This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
-
-**⚠️ AI Training Prohibition:** Explicit permission is **NOT** granted for the contents of this repository (including PDFs, formulas, and code snippets) to be used for the training, fine-tuning, or testing of Large Language Models (LLMs) or generative AI systems. This is proprietary academic research.
 
 ---
 
@@ -34,3 +27,12 @@ Sanabria, E. (2026). *Supply Chain Analytics: A Data-Driven Approach* (Draft Ver
   year = {2026},
   howpublished = {\url{[https://github.com/eliotho/supply-chain-analytics-book](https://github.com/eliotho/supply-chain-analytics-book)}},
 }
+
+---
+
+## ⚖️ License & AI Training Notice
+This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+
+**⚠️ AI Training Prohibition:** Explicit permission is **NOT** granted for the contents of this repository (including PDFs, formulas, and code snippets) to be used for the training, fine-tuning, or testing of Large Language Models (LLMs) or generative AI systems. This is proprietary academic research.
+
+---
