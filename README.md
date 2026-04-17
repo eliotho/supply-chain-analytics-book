@@ -8,8 +8,8 @@ Welcome to the official repository for the draft chapters of **"Supply Chain Ana
 ## 📢 Weekly Release Schedule
 I am releasing chapters weekly to engage with the academic and practitioner communities!
 
-- **Week 1:** Demand Estimation and Forecasting (Available Now)
-- **Week 2:** Inventory Management Models (Coming Soon)
+- **Chapter 1:** Demand Estimation and Forecasting (Available Now)
+- **Chapter 2:** Inventory Management Models (Coming Soon)
 
 ---
 
