@@ -1,7 +1,7 @@
 # Supply Chain Analytics: A Data-Driven Approach
 ### By Elioth Sanabria
 
-Welcome to the official repository for the draft chapters of **"Supply Chain Analytics: A Data-Driven Approach."** This textbook is designed for graduate-level study, blending rigorous mathematical optimization with modern data science techniques.
+Welcome to the official repository for the draft chapters of **"Supply Chain Analytics: A Data-Driven Approach."** These notes are born out of a Supply Chain Analytics class that I taught at Columbia IEOR Department in Spring 2026. See the syllabus here: [Download the Syllabus](files/syllabus.pdf)
 
 ---
 
