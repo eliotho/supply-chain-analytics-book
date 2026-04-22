@@ -11,6 +11,7 @@ I am releasing chapters weekly to engage with the academic and practitioner comm
 - **Chapter 1:** [Demand Estimation and Forecasting](files/lecture_notes_ch_1.pdf) (Available Now)
 - **Chapter 2:** Inventory Management Models (Coming Soon)
 
+- **Full book:** [Download Full Book](files/full_book.pdf)
 ---
 
 ## 🎓 How to Cite This Work
