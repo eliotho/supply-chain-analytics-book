@@ -10,7 +10,7 @@ I am releasing chapters weekly to engage with the academic and practitioner comm
 
 - **Chapter 1:** [Demand Estimation and Forecasting](files/lecture_notes_ch_1.pdf)
 - **Chapter 2:** [Inventory Management Models](files/lecture_notes_ch_2.pdf)
-- **Chapter 3:** [Network Models](files/lecture_notes_ch_3.pdf) (Available Now)
+- **Chapter 3:** [Network Fulfillment Models](files/lecture_notes_ch_3.pdf) (Available Now)
 - **Chapter 4:** Scheduling Models (Coming Soon)
 
 - **Full book:** [Download Full Book](files/full_book.pdf)
