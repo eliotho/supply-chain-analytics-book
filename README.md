@@ -14,8 +14,8 @@ I am releasing chapters weekly to engage with the academic and practitioner comm
 - **Chapter 4:** [Scheduling Models](files/lecture_notes_ch_4.pdf) 
 - **Chapter 5:** [Vehicle Routing Problems](files/lecture_notes_ch_5.pdf) 
 - **Chapter 6:** [Supply Chain Networks](files/lecture_notes_ch_6.pdf)
-- **Chapter 7:** [Queueing Models](files/lecture_notes_ch_7.pdf) (Available Now)
-- **Chapter 8:** [Optimization of Queueing Models] (Coming Soon!)
+- **Chapter 7:** [Queueing Models](files/lecture_notes_ch_7.pdf) 
+- **Chapter 8:** [Optimization of Queueing Models](files/lecture_notes_ch_8.pdf) (Available Now)
 
 
 - **Full book:** [Download Full Book](files/full_book.pdf)
